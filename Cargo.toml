@@ -1,0 +1,11 @@
+[package]
+name = "dependabot-cargo-test"
+version = "0.1.0"
+authors = ["calebcartwright"]
+edition = "2018"
+
+
+[dependencies]
+toml = "0.5.1"
+
+[dev-dependencies]
